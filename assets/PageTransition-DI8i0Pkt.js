@@ -1,0 +1,1 @@
+import{j as t,m as a}from"./motion-D1Y34sDr.js";function e({children:i}){return t.jsx(a.main,{initial:{opacity:0,y:18},animate:{opacity:1,y:0},exit:{opacity:0,y:-12},transition:{duration:.45,ease:[.22,1,.36,1]},className:"relative z-10 pt-28 pb-10 min-h-screen",children:i})}export{e as P};

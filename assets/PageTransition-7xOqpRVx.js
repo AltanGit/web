@@ -1,1 +1,0 @@
-import{r as e,t}from"./motion-Bq7l-xBK.js";var n=e();function r({children:e}){return(0,n.jsx)(t.main,{initial:{opacity:0,y:18},animate:{opacity:1,y:0},exit:{opacity:0,y:-12},transition:{duration:.45,ease:[.22,1,.36,1]},className:`relative z-10 pt-28 pb-10 min-h-screen`,children:e})}export{r as t};
